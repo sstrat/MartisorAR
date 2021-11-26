@@ -1,6 +1,6 @@
 # MartisorAR
 Its an unity aplication which creates an ornament with augmented reality
-The app recognize "Programming with Patience" logo and change it with an image chosen by user.
+The app recognize "Programming with Patience" logo and changes it with an image chosen by user.
 
 # With AR
 
